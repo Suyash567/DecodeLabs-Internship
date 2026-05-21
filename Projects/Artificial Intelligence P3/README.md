@@ -1,4 +1,4 @@
-# DecodeLabs Matchmaker Chatbot Engine
+# DecodeLabs Recommending Chatbot Engine
 
 A lightweight, terminal-based career recommendation engine that uses mathematical vector modeling to align user-provided technical skills with target industry job roles.
 
@@ -37,4 +37,4 @@ The engine evaluates affinity scores across five industry standard baselines:
 ### Running the Engine
 Execute the program from your terminal to begin the interactive matchmaking loop:
 ```bash
-python matchmaker.py
+python Recommendation.py
