@@ -1,0 +1,10 @@
+========================================
+    APPLE NATIVE OCR EXTRACTION REPORT   
+========================================
+Source File    : image1.png
+Confidence     : 100.0%
+Word Count     : 8
+Execution Time : 1.32 seconds
+----------------------------------------
+
+Decode Labs Text Recognition testing using this sentence

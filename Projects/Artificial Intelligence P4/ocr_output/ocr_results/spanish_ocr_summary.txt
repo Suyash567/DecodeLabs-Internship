@@ -1,0 +1,10 @@
+========================================
+    APPLE NATIVE OCR EXTRACTION REPORT   
+========================================
+Source File    : spanish.png
+Confidence     : 50.0%
+Word Count     : 7
+Execution Time : 1.41 seconds
+----------------------------------------
+
+Hola Decodelabs Soy becario/a de Inteligencia Artificial
